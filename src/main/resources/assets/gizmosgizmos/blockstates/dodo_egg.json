@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": {
+      "model": "gizmosgizmos:block/dodo_egg_not_cracked"
+    },
+    "hatch=0": {
+      "model": "gizmosgizmos:block/dodo_egg_not_cracked"
+    },
+    "hatch=1": {
+      "model": "gizmosgizmos:block/dodo_egg_slightly_cracked"
+    },
+    "hatch=2": {
+      "model": "gizmosgizmos:block/dodo_egg_very_cracked"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "gizmosgizmos:block/dodo_egg",
+  "textures": {
+    "bottom": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_bottom",
+    "east": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_east",
+    "north": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_north",
+    "south": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_south",
+    "top": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_top",
+    "west": "gizmosgizmos:block/dodo_egg/dodo_egg_not_cracked_west"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gizmosgizmos:item/cooked_dodo"
+  }
+}

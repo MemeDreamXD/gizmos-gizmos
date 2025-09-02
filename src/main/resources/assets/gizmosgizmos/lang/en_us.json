@@ -1,13 +1,5 @@
 {
-  "itemGroup.gizmosgizmos": "Example Mod Tab",
-  "block.gizmosgizmos.example_block": "Example Block",
-  "item.gizmosgizmos.example_item": "Example Item",
-
-  "gizmosgizmos.configuration.title": "Example Mod Configs",
-  "gizmosgizmos.configuration.section.gizmosgizmos.common.toml": "Example Mod Configs",
-  "gizmosgizmos.configuration.section.gizmosgizmos.common.toml.title": "Example Mod Configs",
-  "gizmosgizmos.configuration.items": "Item List",
-  "gizmosgizmos.configuration.logDirtBlock": "Log Dirt Block",
-  "gizmosgizmos.configuration.magicNumberIntroduction": "Magic Number Text",
-  "gizmosgizmos.configuration.magicNumber": "Magic Number"
+  "item.gizmosgizmos.raw_dodo": "Raw Dodo",
+  "item.gizmosgizmos.cooked_dodo": "Cooked Dodo",
+  "block.gizmosgizmos.dodo_egg": "Dodo Egg"
 }
