@@ -1,6 +1,7 @@
 package com.memedream.gizmosgizmos;
 
 import com.memedream.gizmosgizmos.block.ModBlocks;
+import com.memedream.gizmosgizmos.entity.ModEntities;
 import com.memedream.gizmosgizmos.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -39,6 +40,8 @@ public class GizmosGizmos {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModEntities.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
